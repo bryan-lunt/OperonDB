@@ -1,0 +1,4 @@
+The goal of this project is to create an easy to use, standardized interface for interacting with operon databases, be they Bryan's or someone else's.
+
+In the initial version, only Bryan's operon database will be supported, but later versions may allow connections to others. The architecture will reflect this eventual goal.
+
